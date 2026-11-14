@@ -1,0 +1,14 @@
+{
+  "input_rows": 6415,
+  "valid_activity_rows": 6415,
+  "matched_vessel_rows": 6415,
+  "unmatched_or_invalid_rows": 0,
+  "matched_ships": 1,
+  "total_co2_tonnes": 16.223180059370375,
+  "method": {
+    "main_engine_load": "clip((SOG/design_speed)^3, 0, 1)",
+    "co2": "power_kW * load_factor * hours * emission_factor_g_per_kWh",
+    "phase_rule": "SOG<1 berth; 1<=SOG<3 anchored; otherwise LF<0.2 manoeuvring; else at sea",
+    "excluded_gap_seconds_above": 900
+  }
+}

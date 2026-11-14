@@ -1,0 +1,2 @@
+﻿imo,co2_tonnes,vessel_type_original,dwt,dwt_source,distance_nm,ais_points,excluded_jumps,first_time,last_time,vessel_type,tcu,baf_table_value,baf_multiplier_used,eeoi_g_per_t_nm,status
+1016252,16.223180059370375,Bulk carrier,22499.5,imo4_size_band_midpoint,92.5297999561518,6415,7,2025-02-27 00:02:26+00:00,2025-02-27 23:54:10+00:00,bulk_carrier,0.54,,1.0,14.430711300226445,ok

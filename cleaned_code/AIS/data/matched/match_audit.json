@@ -1,0 +1,12 @@
+{
+  "stsd_rows": 1,
+  "stsd_valid_imo_rows": 1,
+  "stsd_duplicate_imo_rows": 0,
+  "ais_rows": 5182038,
+  "ais_unique_ships": 1197,
+  "matched_ships": 1,
+  "complete_ships_exported": 1,
+  "incomplete_ships_not_exported": 0,
+  "ais_records_matched_to_complete_ships": 6415,
+  "stsd_ships_without_ais_activity": 0
+}
